@@ -1,2 +1,3 @@
-# hevy-api-connect
-Client for the Hevy API
+# Hevy API Connect
+
+Client library for the [Hevy](https://hevy.com/) API
